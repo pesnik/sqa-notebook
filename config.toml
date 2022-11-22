@@ -1,6 +1,6 @@
-baseURL=https://github.com/rakibulhasanmasum/sqa-notebook/
-languageCode = 'en-us'
-title = 'Software Quality Assurance Notebook'
+baseURL="https://github.com/rakibulhasanmasum/sqa-notebook/"
+languageCode = "en-us"
+title = "Software Quality Assurance Notebook"
 
 theme = "cactus"
 
